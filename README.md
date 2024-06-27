@@ -3,6 +3,8 @@ Flexible parametric regression for time-to-event data Use flexsurvreg With (In) 
 
 Flexible Parametric Survival and Multi-State Models Use flexsurvreg With (In) R Software
 
+https://www.youtube.com/watch?v=TBbPu_wZYdg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
